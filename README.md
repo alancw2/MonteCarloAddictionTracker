@@ -1,4 +1,4 @@
-# Stochastic Vape Cost Simulator (Monte Carlo)
+# Stochastic Addiction Cost Simulator (Monte Carlo)
 
 This project uses **Monte Carlo simulation** to model and compare the long-term cost of different disposable vapes under **random daily usage**. Daily consumption is modeled as a **Poisson process**, and thousands of simulated futures are generated to estimate expected cost curves and uncertainty bands.
 
@@ -20,6 +20,9 @@ The tool is useful for:
 - Generates clean **Matplotlib visualizations**
 - Fully object-oriented design
 
+## Features Coming Soon
+- Caffeine Modeling
+- GUI integration
 ---
 
 ## Mathematical Model
@@ -51,3 +54,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/vape-cost-simulator.git
 cd vape-cost-simulator
+
+
+
